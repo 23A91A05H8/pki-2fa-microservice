@@ -1,1 +1,14 @@
-BdSc4jY66ZvTePf5F4+W5NuS8obIMU2oECjt1VKnfEwtrIAp4LdpLrn+sJNRHcBAL47EPr+KepiGZLHTsr8JSw3uUwUKrYCZSs1rM6TPkn7PgYjnl0KP84WxLujac+rJY/8dF4uYSPvnvkjjFoz3rezbHZ3wvsGwShTN+n7JCvKWQAxV6j0ei95PRhMRpIF7A7iKInHkZndc/PkLuq8XfyxLSg+5GQ04wTKtAajN/hsZ/AK0h7Vg+CTmYS6YDSoPYpL/R/wqNdTRazhxdfbty17gzLF89Ai0lOFb3jJCrp2kyQ+U99KdgqsR9f46Zev/YpduuIc5vD733C5G4npoaRhVz9Idwm8kDEvYGgBVvR4dzAG6SPV+78t/VFRdSmjmY217xcvLMVQJrWnwBA56/MpQdT7cCW0NS3dohQIM0j+u0yJmxTcY75ZCiGbPlDY2LVqP9kvizXN+Y6+VTM43QbU//RhgxXvdCE07dlDJn+nmdtxsJ5ujoEGZS5CcN+uEUgzNjkb/eIyPUzMYZFGWbbuSyOr+8iaQzJuqri5ZYMOCZexvOkgnEuW4nwjh0WX9ritg3hdwS3sY6Yc+OAAAXEbA3AGsA2TJaoy3/lgi82a6EQUMhyVXotT7MIeThkJFoI58R/Ph9OCuSdLxZFllKOG+d1JgkMDXeHRZdMDlpDQ=
+# Do NOT commit encrypted seed
+encrypted_seed.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# IDE files
+.vscode/
+.idea/
